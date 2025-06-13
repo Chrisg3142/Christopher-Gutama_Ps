@@ -81,6 +81,7 @@ h3{
   width: 50%;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 400px;
 }
 
 .contact p {
@@ -97,6 +98,7 @@ h3{
   border-radius: 5%;
   transition: all 0.5s ease;
   transform: translate(0, 0); /* starting position */
+  margin-bottom: 100px;
 }
 
 .contact #contactBtn:hover {
